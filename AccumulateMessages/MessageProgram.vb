@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'AccumulateMessageFunction
-'Link
+'https://github.com/TheGoldenPorkchop/AccumulateMessages/tree/master
 Option Strict On
 Option Explicit On
 
